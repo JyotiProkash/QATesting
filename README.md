@@ -21,19 +21,26 @@ Serial AccountId Money       Date
 6	   12345	60.00 EUR	2020-10-05 12:03:00
 7	   12345	60.00 EUR	2020-10-05 12:05:00
 
-**Environment and Platform:**
+**Environment/Platform/Tools/Language:**
+Java
+Selenium WebDriver
+TestNG
+TestNG Extent report
 Linux(Ubuntu) 20.04
 JDK 1.8
+IntelliJIdea Community Edition 2019.3
 
-**Script Writing Information**
-Page Class: Statements
-Test Class: StatementsTest
+**Script Writing Information:**
+Page Class: Statements 
+Location: (src/main/java/com/hybridframework/qa/sourcepages)
+Test Class: StatementsTest 
+Location: (src/test/java/com/hybridframework/qa/testpages)
 
 **Test Run:**
 clean mvn test
 
 **HTML Test Report:**
 After test execution, to get test report, visit as follows.
-src -> test -> output -> TestReport -> ExtentReport.html
+Location: src -> test -> output -> TestReport -> ExtentReport.html
 
 
