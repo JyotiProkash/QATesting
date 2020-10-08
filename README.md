@@ -43,4 +43,5 @@ clean mvn test
 After test execution, to get test report, visit as follows.
 Location: src -> test -> output -> TestReport -> ExtentReport.html
 
-
+**Final Test Report File:**
+TestReport.xls
